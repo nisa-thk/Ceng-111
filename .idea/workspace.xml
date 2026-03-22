@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae00a866-98de-4590-bd60-283684f2944f" name="Changes" comment="python lab1">
-      <change afterPath="$PROJECT_DIR$/Manual Student Record Parser.py" afterDir="false" />
+    <list default="true" id="ae00a866-98de-4590-bd60-283684f2944f" name="Changes" comment="python lab1.2">
+      <change afterPath="$PROJECT_DIR$/worksheet1.3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +34,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Manual Student Record Parser.executor": "Run",
+    "Python.worksheet1.3.executor": "Run",
     "Python.worksheet1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
@@ -63,7 +65,23 @@
       <option name="project" value="LOCAL" />
       <updated>1774199526711</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="python lab1.2">
+      <option name="closed" value="true" />
+      <created>1774201536618</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1774201536618</updated>
+    </task>
+    <task id="LOCAL-00003" summary="python lab1.2">
+      <option name="closed" value="true" />
+      <created>1774201549372</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1774201549372</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -79,6 +97,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="python lab1" />
-    <option name="LAST_COMMIT_MESSAGE" value="python lab1" />
+    <MESSAGE value="python lab1.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="python lab1.2" />
   </component>
 </project>
