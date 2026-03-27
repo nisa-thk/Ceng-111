@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae00a866-98de-4590-bd60-283684f2944f" name="Changes" comment="python lab1.2" />
+    <list default="true" id="ae00a866-98de-4590-bd60-283684f2944f" name="Changes" comment="python lab1.3">
+      <change afterPath="$PROJECT_DIR$/Tak3_diamond.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task1_inverted_triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task2_centered_pyramid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4_hollow_rectangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5_x_pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_0 Right_Triangle Of Stars.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,9 +28,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;nisa-thk&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/nisa-thk/Ceng-111.git&quot;,
+    &quot;accountId&quot;: &quot;1abe51ad-1bd2-4d8b-98d2-0f7b79e0c7fe&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="3BJFeFuhgLF9hiE8uUv4vspQJJj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -32,6 +52,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Manual Student Record Parser.executor": "Run",
+    "Python.Tak3_diamond.executor": "Run",
+    "Python.Task1_inverted_triangle.executor": "Run",
+    "Python.Task2_centered_pyramid.executor": "Run",
+    "Python.Task4_hollow_rectangle.executor": "Run",
+    "Python.Task_0 Right_Triangle Of Stars.executor": "Run",
     "Python.worksheet1.3.executor": "Run",
     "Python.worksheet1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -78,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774201549372</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="python lab1.3">
+      <option name="closed" value="true" />
+      <created>1774203865834</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1774203865834</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,6 +128,17 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="python lab1" />
     <MESSAGE value="python lab1.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="python lab1.2" />
+    <MESSAGE value="python lab1.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="python lab1.3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Task2_centered_pyramid.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
